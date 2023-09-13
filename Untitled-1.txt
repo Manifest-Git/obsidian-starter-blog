@@ -1,0 +1,1 @@
+vpype read "C:\Users\evanl\Insync\evanlhatch@gmail.com\Google Drive\Plotter Art\Basmalah-1wm.svg" linemerge linesimplify -t 0.05mm reloop linesort penwidth 0.15mm pixelize --mode snake --pen-width 0.15mm write "C:\Users\evanl\Insync\evanlhatch@gmail.com\Google Drive\Plotter Art\Vpype svg exports\tester.svg"
